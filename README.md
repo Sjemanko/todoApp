@@ -31,7 +31,7 @@ Everything is in docs linked above.
 
 ### Application Content
 
-It's simple `CRUD` application with saving data to` database`. As a database I use `SQL Server` inside `docker container`. 
+It's simple `CRUD` application with saving data to `database`. As a database I use `SQL Server` inside `docker container`. 
 
 ### Routes
 | Route | Method | Description|
