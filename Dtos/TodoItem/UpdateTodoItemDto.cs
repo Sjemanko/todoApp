@@ -1,0 +1,14 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace todoApp.Dtos.TodoItem
+{
+    public class UpdateTodoItemDto
+    {
+        public int Id { get; set; }
+        public string Content { get; set; } = "";
+        public bool IsDone { get; set; }
+    }
+}
